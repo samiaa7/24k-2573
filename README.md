@@ -2,4 +2,4 @@
 
 - I am Samia Fahim.
 - I study Data Science at FAST National University of Computer and Emerging Sciences.
-* This is my programming fundamentals lab 2 assignment
+- This is my Programming Fundamentals Lab 2 assignment
